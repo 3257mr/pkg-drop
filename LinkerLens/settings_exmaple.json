@@ -1,0 +1,8 @@
+{
+    "lsl.associations": {
+        "stm32f407.ld": {
+            "map": "build/firmware.map",
+            "elf": "build/firmware.elf"
+        }
+    }
+}
